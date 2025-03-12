@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yusuke-Yamasaki-555&theme=onedark&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuke-Yamasaki-555&theme=onedark&layout=compact" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yusuke-Yamasaki-555&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
